@@ -61,4 +61,3 @@ if uploaded_file is not None:
 
     # Display Enhanced Image
     st.image(enhanced_image_rgb, caption="Enhanced Image", use_column_width=True)
-
